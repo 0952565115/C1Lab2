@@ -65,10 +65,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\TurretControl.cs" />
+    <Compile Include="Assets\scripts\FireProjectile1.cs" />
+    <Compile Include="Assets\scripts\TurretControl1.cs" />
     <Compile Include="Assets\scripts\FireProjectille.cs" />
     <Compile Include="Assets\scripts\MyRing.cs" />
     <Compile Include="Assets\scripts\Projectile1.cs" />
     <Compile Include="Assets\scripts\Projectile.cs" />
+    <Compile Include="Assets\scripts\TurretControl2.cs" />
+    <Compile Include="Assets\scripts\FireProjectile2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
